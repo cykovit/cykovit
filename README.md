@@ -5,7 +5,7 @@ back-end dev / CTF and robotics enjoyer
 ---------------------------------------
 
 *   🌍  I'm based in Paris (FR)
-*   🧠  I'm learning Haskell & Svelte
+*   🧠  I'm learning Haskell, Svelte & Swift
 *   🤝  I'm open to collaborating on anything but your blockchain bullshit
 
 *   ### Skills 
