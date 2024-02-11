@@ -2,7 +2,7 @@
 
 About me
 ---------------------------------------
-I'm currently a Back-end dev / Threat analyst so I enjoy reverse-engineering pretty much everything and anything (you read it here first 👀)
+I'm currently a Back-end dev / Threat analyst so I enjoy reverse-engineering pretty much everything and anything (you read it here first)
 
 Skills / tech I often use:
 
