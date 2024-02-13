@@ -8,7 +8,7 @@
 
 <h2 align = "center"> 🔧 Skills / tech I often use 🔨 </h2>
 
-<p>
+<p align="center">
 <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" height=25/>
 <img alt="graphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height=25/>
 <img alt="raspberry" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi" height=25/>
