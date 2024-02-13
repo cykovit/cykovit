@@ -1,10 +1,12 @@
-# Hi, I'm cykovit
+<h2 align="center"> Hi, I'm cykovit 🤙 </h2>
 
-About me
----------------------------------------
-I'm currently a Back-end dev / Threat analyst so I enjoy reverse-engineering pretty much everything and anything (you read it here first)
+<h2 align="center"> About me </h2>
 
-Skills / tech I often use:
+<p align="center"> 
+  I'm currently a Back-end dev / Threat analyst so I enjoy reverse-engineering pretty much everything and anything (you read it here first)
+</p>
+
+<h2 align = "center"> 🔧 Skills / tech I often use 🔨 </h2>
 
 <p>
 <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" height=25/>
@@ -38,6 +40,14 @@ Skills / tech I often use:
 <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height=25/>
 <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height=25/> 
 </p>
+
+<h2 align = "center"> 📉 GitHub Stats 📉 </h2>
+  <div> 
+    <p align = "center">
+      <a href="https://github.com/yannouuuu/">
+        <img alt="cykovit's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cykovit&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
+    </p>
+  </div>
 
 ```
 An idiot admires complexity. A genius admires simplicity.
