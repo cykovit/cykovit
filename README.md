@@ -44,7 +44,7 @@
 <h2 align = "center"> 📉 GitHub Stats 📉 </h2>
   <div> 
     <p align = "center">
-      <a href="https://github.com/yannouuuu/">
+      <a href="https://github.com/cykovit/">
         <img alt="cykovit's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cykovit&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
     </p>
   </div>
