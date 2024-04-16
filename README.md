@@ -41,7 +41,7 @@
 <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height=25/> 
 </p>
 
-<!--
+
 <h2 align = "center"> 📉 GitHub Stats 📉 </h2>
   <div> 
     <p align = "center">
@@ -49,7 +49,7 @@
         <img alt="cykovit's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cykovit&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
     </p>
   </div>
--->
+  
 
 ```
 An idiot admires complexity. A genius admires simplicity.
