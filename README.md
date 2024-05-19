@@ -55,3 +55,4 @@
 An idiot admires complexity. A genius admires simplicity.
 - Terry A. Davis
 ```
+![](https://komarev.com/ghpvc/?username=cykovit&color=lightgrey&label=stalker+count&abbreviated=true)
