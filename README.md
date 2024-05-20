@@ -63,9 +63,15 @@
   
 </p>
 
-<!-- blinkies -->
+<!-- slim blinkies -->
 <p align = "center">
-  <img src="https://64.media.tumblr.com/a4248078b62f5b8711342dd203639d0d/1e1e24b2b4076339-4c/s250x400/ef2984ba421d8feaeafe0338c71453b60f801a27.gifv">
+  <img src="https://64.media.tumblr.com/a4248078b62f5b8711342dd203639d0d/1e1e24b2b4076339-4c/s250x400/ef2984ba421d8feaeafe0338c71453b60f801a27.gifv"> <img src="https://y2k.neocities.org/blinkiez/0blinkiebelieve.gif">
+  
+</p>
+
+<!-- less slim blinkies -->
+<p align = "center">
+  <img src="https://64.media.tumblr.com/7a3f743bdca12f8fbaa4724920facb7e/tumblr_inline_pj6xffKMjF1vk8upr_250.gifv">
   
 </p>
 
