@@ -49,10 +49,16 @@
         <img alt="cykovit's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cykovit&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
     </p>
   </div>
-  
+
+<!-- bienvenue sur mon skyblog -->
+<p align = "center">
+<img src ="https://anlucas.neocities.org/browser7.gif"> <img src="https://anlucas.neocities.org/abinow.gif"> <img src="https://anlucas.neocities.org/RaveNow3.gif"> <img src="https://anlucas.neocities.org/prod_625_17265.gif"> <img src="https://anlucas.neocities.org/linuxnow.jpg"> <img src="https://anlucas.neocities.org/apocalypse_now.gif"> <img src="https://anlucas.neocities.org/aniquake.gif"> <img src="https://anlucas.neocities.org/built_with_amiga02.gif"> <a href="https://www.youtube.com/watch?v=igWazH_Babw"> <img src="https://anlucas.neocities.org/clickhere_red.gif"> </a> <img src="https://anlucas.neocities.org/ftktop.gif"> 
+
+</p>
 
 ```
 An idiot admires complexity. A genius admires simplicity.
 - Terry A. Davis
 ```
+
 ![](https://komarev.com/ghpvc/?username=cykovit&color=lightgrey&label=stalker+count&abbreviated=true)
