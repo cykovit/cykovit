@@ -51,19 +51,19 @@
 
 <!-- bienvenue sur mon skyblog -->
 
-<!-- buttons -->
+<!-- buttons 
 <p align = "center">
   <img src ="https://anlucas.neocities.org/browser7.gif"> <img src="https://anlucas.neocities.org/abinow.gif"> <img src="https://anlucas.neocities.org/RaveNow3.gif"> <img src="https://anlucas.neocities.org/prod_625_17265.gif"> <img src="https://anlucas.neocities.org/linuxnow.jpg"> <img src="https://anlucas.neocities.org/apocalypse_now.gif"> <img src="https://cyber.dabamos.de/88x31/www.gif"> <img src="https://anlucas.neocities.org/built_with_amiga02.gif"> <a href="https://www.youtube.com/watch?v=igWazH_Babw"><img src="https://anlucas.neocities.org/clickhere_red.gif"></a> <img src="https://anlucas.neocities.org/ftktop.gif"> <img src="https://cyber.dabamos.de/88x31/psbutton.gif"> <a href="https://www.youtube.com/watch?v=5n8iU7abqkQ"><img src="https://anlucas.neocities.org/aniquake.gif"></a> <img src="https://cyber.dabamos.de/88x31/noescapenow.gif"> <img src="https://cyber.dabamos.de/88x31/play_ctf.gif"> <img src="https://cyber.dabamos.de/88x31/screw.gif"> <img src="https://cyber.dabamos.de/88x31/thevoid.gif"> <img src="https://cyber.dabamos.de/88x31/swaglogo5.gif"> <img src="https://cyber.dabamos.de/88x31/antinft.gif"> <img src="https://cyber.dabamos.de/88x31/camtime.gif"> <img src="https://cyber.dabamos.de/88x31/crazyfrog.gif"> <img src="https://cyber.dabamos.de/88x31/mysql5.gif"> <img src="https://cyber.dabamos.de/88x31/members-choice.gif"> <img src="https://cyber.dabamos.de/88x31/merlinxp.gif"> <img src="https://cyber.dabamos.de/88x31/doombut.gif"> <img src="https://cyber.dabamos.de/88x31/half-life.gif"> <img src="https://cyber.dabamos.de/88x31/minecraft.gif"> <img src="https://cyber.dabamos.de/88x31/hello_kitty.gif"> <img src="https://cyber.dabamos.de/88x31/desp-anim.gif"> <img src="https://cyber.dabamos.de/88x31/hellontheweb.gif"> <a href="https://weirdorconfusing.com/"><img src="https://cyber.dabamos.de/88x31/mysterysite.gif"></a> <img src="https://adriansblinkiecollection.neocities.org/buttons/e21.gif"> <img src="https://adriansblinkiecollection.neocities.org/buttons/b2.gif"> <img src="https://adriansblinkiecollection.neocities.org/buttons/b14.png"> 
 
-</p>
+</p> 
 
-<!-- divider -->
+ divider 
 <p align = "center">
    <img src="https://collection.ju.mp/assets/images/gallery16/d50a56f7.gif?v=0236594d">
   
 </p>
 
-<!-- stamps -->
+stamps
 <p align = "center">
   <img src="https://external-media.spacehey.net/media/s-JEoj6CGEcKiu2Qg1UJ2IgXwkcbew31tlDqCPi-Wh7I=/https://64.media.tumblr.com/a6997f3365d1f49903c48ae194700aeb/tumblr_inline_rswszfVmQS1whr3ru_500.gif"> <img src="https://collection.ju.mp/assets/images/gallery07/6c24d99a.gif?v=0236594d"> <img src="https://collection.ju.mp/assets/images/gallery03/a75ff5a0.gif?v=0236594d"> <img src="https://adriansblinkiecollection.neocities.org/stamps/d25.jpg"> <img src="https://adriansblinkiecollection.neocities.org/stamps/d60.gif"> <img src="https://adriansblinkiecollection.neocities.org/stamps/d61.gif"> <img src="https://adriansblinkiecollection.neocities.org/stamps/d65.png"> <img src="https://adriansblinkiecollection.neocities.org/stamps/d42.gif"> 
   
@@ -74,13 +74,13 @@
   
 </p>
 
-<!-- big stamps -->
+big stamps
 <p align = "center">
   <img src="https://collection.ju.mp/assets/images/gallery08/3012751c.gif?v=0236594d">
   
 </p>
 
-<!-- slim blinkies -->
+slim blinkies
 <p align = "center">
   <img src="https://adriansblinkiecollection.neocities.org/k7.gif"> <img src="https://64.media.tumblr.com/a4248078b62f5b8711342dd203639d0d/1e1e24b2b4076339-4c/s250x400/ef2984ba421d8feaeafe0338c71453b60f801a27.gifv"> <img src="https://y2k.neocities.org/blinkiez/0blinkiebelieve.gif"> <img src="https://adriansblinkiecollection.neocities.org/k17.gif"> <img src="https://adriansblinkiecollection.neocities.org/k18.gif"> 
   
@@ -91,11 +91,11 @@
   
 </p>
 
-<!-- less slim blinkies -->
+less slim blinkies
 <p align = "center">
   <img src="https://64.media.tumblr.com/7a3f743bdca12f8fbaa4724920facb7e/tumblr_inline_pj6xffKMjF1vk8upr_250.gifv"> 
   
-</p>
+</p> -->
 
 ```
 An idiot admires complexity. A genius admires simplicity.
