@@ -41,7 +41,6 @@
 <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height=25/> 
 </p>
 
-
 <h2 align = "center"> 📉 GitHub Stats 📉 </h2>
   <div> 
     <p align = "center">
@@ -51,10 +50,17 @@
   </div>
 
 <!-- bienvenue sur mon skyblog -->
+
 <!-- buttons -->
 <p align = "center">
   <img src ="https://anlucas.neocities.org/browser7.gif"> <img src="https://anlucas.neocities.org/abinow.gif"> <img src="https://anlucas.neocities.org/RaveNow3.gif"> <img src="https://anlucas.neocities.org/prod_625_17265.gif"> <img src="https://anlucas.neocities.org/linuxnow.jpg"> <img src="https://anlucas.neocities.org/apocalypse_now.gif"> <img src="https://cyber.dabamos.de/88x31/www.gif"> <img src="https://anlucas.neocities.org/built_with_amiga02.gif"> <a href="https://www.youtube.com/watch?v=igWazH_Babw"><img src="https://anlucas.neocities.org/clickhere_red.gif"></a> <img src="https://anlucas.neocities.org/ftktop.gif"> <img src="https://cyber.dabamos.de/88x31/psbutton.gif"> <a href="https://www.youtube.com/watch?v=5n8iU7abqkQ"><img src="https://anlucas.neocities.org/aniquake.gif"></a> <img src="https://cyber.dabamos.de/88x31/noescapenow.gif"> <img src="https://cyber.dabamos.de/88x31/play_ctf.gif"> <img src="https://cyber.dabamos.de/88x31/screw.gif"> <img src="https://cyber.dabamos.de/88x31/thevoid.gif"> <img src="https://cyber.dabamos.de/88x31/swaglogo5.gif"> <img src="https://cyber.dabamos.de/88x31/antinft.gif"> <img src="https://cyber.dabamos.de/88x31/camtime.gif"> <img src="https://cyber.dabamos.de/88x31/crazyfrog.gif"> <img src="https://cyber.dabamos.de/88x31/mysql5.gif"> <img src="https://cyber.dabamos.de/88x31/members-choice.gif"> <img src="https://cyber.dabamos.de/88x31/merlinxp.gif"> <img src="https://cyber.dabamos.de/88x31/doombut.gif"> <img src="https://cyber.dabamos.de/88x31/half-life.gif"> <img src="https://cyber.dabamos.de/88x31/minecraft.gif"> <img src="https://cyber.dabamos.de/88x31/hello_kitty.gif"> <img src="https://cyber.dabamos.de/88x31/desp-anim.gif"> <img src="https://cyber.dabamos.de/88x31/hellontheweb.gif"> <a href="https://weirdorconfusing.com/"><img src="https://cyber.dabamos.de/88x31/mysterysite.gif"></a> <img src="https://adriansblinkiecollection.neocities.org/buttons/e21.gif"> <img src="https://adriansblinkiecollection.neocities.org/buttons/b2.gif"> <img src="https://adriansblinkiecollection.neocities.org/buttons/b14.png"> 
 
+</p>
+
+<!-- divider -->
+<p align = "center">
+   <img src="https://collection.ju.mp/assets/images/gallery16/d50a56f7.gif?v=0236594d">
+  
 </p>
 
 <!-- stamps -->
