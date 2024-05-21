@@ -102,4 +102,4 @@ An idiot admires complexity. A genius admires simplicity.
 - Terry A. Davis
 ```
 
-![](https://komarev.com/ghpvc/?username=cykovit&color=lightgrey&label=stalker+count&abbreviated=true) <img src="https://collection.ju.mp/assets/images/gallery14/1e774f55.gif?v=0236594d">
+![](https://komarev.com/ghpvc/?username=cykovit&color=lightgrey&label=stalker+count&abbreviated=true) <img src="https://collection.ju.mp/assets/images/gallery19/4f76f958_original.gif?v=0236594d">
