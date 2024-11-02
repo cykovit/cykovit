@@ -18,7 +18,7 @@
    def currently
      {
        studying: [ 'blockchain analysis' ],
-       reading: [ 'a bunch of UE policies no one actually cares about' ],
+       reading: [ 'a bunch of EU policies no one actually cares about' ],
        tinkering: [ 'malware samples', 'mobile app development' ]
       }
    end
