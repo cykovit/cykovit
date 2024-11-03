@@ -26,5 +26,7 @@
  ```
 <br>
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/cykovit.png" alt="Your Image Badge" />
+<a href="https://www.youtube.com/watch?v=9wswgMewckU" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/cykovit.png" alt="Your Image Badge" />
+</a>
 </p>
