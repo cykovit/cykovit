@@ -2,7 +2,7 @@
  class Cyko < Human
    def initialize
      @name = 'cykovit'
-     @age = 25
+     @age = 26
      @education = [ 'UCSD', 'Erasmus Rotterdam' ]
      @hobbies = [ 'gaming', 'art', 'CTFs' ]
    end
