@@ -27,6 +27,6 @@
 <br>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=9wswgMewckU" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/cykovit.png?update=5">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cykovit.png"/>
 </a>
 </p>
